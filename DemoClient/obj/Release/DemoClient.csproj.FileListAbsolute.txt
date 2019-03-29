@@ -1,0 +1,7 @@
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\StudentWebAPIDEMO\DemoClient\bin\Release\DemoClient.exe.config
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\StudentWebAPIDEMO\DemoClient\bin\Release\DemoClient.exe
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\StudentWebAPIDEMO\DemoClient\bin\Release\DemoClient.pdb
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\StudentWebAPIDEMO\DemoClient\obj\Release\DemoClient.csprojAssemblyReference.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\StudentWebAPIDEMO\DemoClient\obj\Release\DemoClient.csproj.CoreCompileInputs.cache
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\StudentWebAPIDEMO\DemoClient\obj\Release\DemoClient.exe
+C:\Users\KathleenWest\Dropbox\Career\GitHub Repositories\StudentWebAPIDEMO\DemoClient\obj\Release\DemoClient.pdb
